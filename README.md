@@ -1,7 +1,11 @@
 # Data Scientist
-
+A highly motivated and results-oriented First-Class graduate in Computer Science, with a strong passion for Artificial Intelligence and 
+Data Science. I bring solid research, technical, and analytical skills, and I quickly adapt to new challenges. Committed to advancing a 
+career in research and academia, I aspire to contribute meaningfully to the field by driving innovations in sustain
+able technologies. 
 
 #### Technical Skills: AWS, mySQL,  PowerBI, Python, R,
+#### Research Interest: Artificial Intelligence, Data Science, Deep Learning, Machine Learning, Numerical Computation, Sustainability
 
 ### Education
 B.Sc. Computer Science | First Technical University Ibadan (_Dec 2024_)
